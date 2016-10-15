@@ -1,0 +1,11 @@
+
+//-----------wechat account-----------
+export appid=YOUR_WECHAT_APP_ID
+export secret=YOUR_WECHAT_APP_SECRET
+
+
+//-----------redis-----------
+export redis_host=YOUR_REDIS_HOST 
+export redis_port=YOUR_REDIS_PORT
+export redis_key=YOUR_REDIS_KEY 
+

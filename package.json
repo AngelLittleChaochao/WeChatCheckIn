@@ -1,0 +1,29 @@
+{
+  "name": "wx-record",
+  "version": "1.0.0",
+  "description": "wechat program",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "express": "^4.12.4",
+    "highland": "^2.5.1",
+    "log4js": "^0.6.26",
+    "node-fs": "^0.1.7",
+    "node-queue-lib": "0.0.28",
+    "node-uuid": "^1.4.3",
+    "object-to-xml": "~1.0.0",
+    "redis": "^0.12.1",
+    "request": "^2.58.0",
+    "utf8": "^2.1.1",
+    "util": "~0.10.3",
+    "xml2js": "^0.4.9"
+  },
+  "author": "Chaochao",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
