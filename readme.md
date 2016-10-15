@@ -3,7 +3,7 @@ This is a wechat project. It is for user to mark this tasks every day. When user
 
 If someone doesn't finished his/her task, they can do some punishment offline. Later on, more functions will be added.
 
-![image](./sample.jpg  =300x)
+<img src="./sample.jpg" width="300">
 
 ## Using this Repository
 * Install [Node.js](https://nodejs.org/en/)
